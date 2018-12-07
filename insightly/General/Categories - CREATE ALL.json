@@ -1,0 +1,437 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/settings/categories",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Brokering"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddOpportunity",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddProjects",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Consulting"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddOpportunity",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddProjects",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Contract"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Facebook Messenger"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Presentation"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Proposal"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Qualification"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Research"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Videocall"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Invoice"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Offer"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Consulting"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddOpportunity",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddProjects",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+  
+    
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Find Deals"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddOpportunity",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddProjects",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Find Finance"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddOpportunity",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddProjects",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Online Education Provision"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddOpportunity",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddProjects",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Online Support Subscription"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddOpportunity",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddProjects",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    }
+  ]
+}

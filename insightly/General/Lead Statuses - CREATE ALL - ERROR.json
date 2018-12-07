@@ -1,0 +1,50 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/settings/leadstatus",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"edit2683340\"]/i",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=EditReason",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=EditReason",
+      "Value": "Not Contacted"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Save",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"edit2683341\"]/i",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=EditReason",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=EditReason",
+      "Value": "Attempted Contact"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Save",
+      "Value": ""
+    }
+  ]
+}

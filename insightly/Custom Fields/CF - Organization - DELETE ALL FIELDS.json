@@ -1,0 +1,20 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Organisation",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Delete This Field",
+      "Value": ""
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=deleteCustomField",
+      "Value": ""
+    }
+  ]
+}

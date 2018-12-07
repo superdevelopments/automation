@@ -1,0 +1,144 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/LeadConversionFieldMapping",
+      "Value": ""
+    },
+
+
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_0__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_0__ToFields_1__ToID",
+      "Value": "label=Alcoholic Drinks Preference"
+    },
+
+
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_1__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_1__ToFields_1__ToID",
+      "Value": "label=Children Names"
+    },
+    
+
+
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_6__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_6__ToFields_1__ToID",
+      "Value": "label=Event"
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_9__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_9__ToFields_1__ToID",
+      "Value": "label=Hobbies/Interests"
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_10__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_10__ToFields_1__ToID",
+      "Value": "label=Hot Drinks Preference"
+    },
+
+
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_12__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_12__ToFields_1__ToID",
+      "Value": "label=Initial Email Statement"
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_16__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_16__ToFields_1__ToID",
+      "Value": "label=Lead Source [custom]"
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_24__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_24__ToFields_1__ToID",
+      "Value": "label=Profile Type"
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_26__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_26__ToFields_1__ToID",
+      "Value": "label=Skype ID"
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_32__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_32__ToFields_1__ToID",
+      "Value": "label=When did we meet?"
+    },
+
+
+    {
+      "Command": "click",
+      "Target": "id=saveChanges",
+      "Value": ""
+    }
+  ]
+}
