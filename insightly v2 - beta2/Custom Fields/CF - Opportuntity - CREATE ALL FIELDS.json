@@ -42,10 +42,10 @@
       "Value": ""
     },
     {
-      "Command": "type",
-      "Target": "id=field-values",
-      "Value": "Email\\nGoogle\\nNetworking\\nOther\\nPhone Enquiry\\nFacebook\\nGumtree\\nRightmove\\nZoopla\\nPurchased List\\nReferral\\nSocial Media\\nWebsite\\nAgent\\nSourcer\\nData Scraping\\nLinkedIn\\nTwitter\\nInstagram\\nYouTube"
-    },
+      "Command":"type",
+      "Target":"id=field-values",
+      "Value":"Email\\nGoogle\\nNetworking\\nOther\\nPhone Enquiry\\nFacebook\\nGumtree\\nRightmove\\nZoopla\\nPurchased List\\nPartner Referral\\nSocial Media\\nWeb\\nAgent\\nSourcer\\nData Scraping\\nLinkedIn\\nTwitter\\nInstagram\\nYouTube"
+   },
     {
       "Command": "type",
       "Target": "id=SortAlphabetical",
@@ -73,62 +73,12 @@
     },
     {
       "Command": "type",
-      "Target": "id=url",
-      "Value": "Url"
+      "Target": "id=dropdown",
+      "Value": "Dropdown"
     },
     {
       "Command": "click",
-      "Target": "id=url",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "link=Next",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=field-label",
-      "Value": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=field-label",
-      "Value": "Initial Analysis Template"
-    },
-    {
-      "Command": "click",
-      "Target": "id=help-text",
-      "Value": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=help-text",
-      "Value": "Link to template document"
-    },
-    {
-      "Command": "clickAndWait",
-      "Target": "id=submit_btn",
-      "Value": ""
-    },
-    {
-      "Command": "open",
-      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Opportunity",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "link=New Field",
-      "Value": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=url",
-      "Value": "Url"
-    },
-    {
-      "Command": "click",
-      "Target": "id=url",
+      "Target": "id=dropdown",
       "Value": ""
     },
     {
@@ -137,79 +87,285 @@
       "Value": ""
     },
     {
-      "Command": "click",
-      "Target": "id=field-label",
-      "Value": ""
-    },
-    {
       "Command": "type",
       "Target": "id=field-label",
-      "Value": "Basic Analysis Template"
+      "Value": "Investor Type"
     },
     {
       "Command": "click",
-      "Target": "id=help-text",
+      "Target": "id=field-name",
       "Value": ""
     },
     {
+      "Command": "click",
+      "Target": "id=field-values",
+      "Value": ""
+    },
+    {
+      "Command":"type",
+      "Target":"id=field-values",
+      "Value":"Retained Client\\nInvestor Group\\nJV Partner"
+   },
+    {
       "Command": "type",
-      "Target": "id=help-text",
-      "Value": "Link to template document"
+      "Target": "id=SortAlphabetical",
+      "Value": "true"
+    },
+    {
+      "Command": "click",
+      "Target": "id=SortAlphabetical",
+      "Value": ""
     },
     {
       "Command": "clickAndWait",
       "Target": "id=submit_btn",
       "Value": ""
     },
+
+
     {
-      "Command": "open",
-      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Opportunity",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "link=New Field",
-      "Value": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=url",
-      "Value": "Url"
-    },
-    {
-      "Command": "click",
-      "Target": "id=url",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "link=Next",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=field-label",
-      "Value": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=field-label",
-      "Value": "Full Analysis Template"
-    },
-    {
-      "Command": "click",
-      "Target": "id=help-text",
-      "Value": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=help-text",
-      "Value": "Link to template document"
-    },
-    {
-      "Command": "clickAndWait",
-      "Target": "id=submit_btn",
-      "Value": ""
-    }
+      "Command":"open",
+      "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Opportunity",
+      "Value":""
+   },
+   {
+      "Command":"click",
+      "Target":"link=New Field",
+      "Value":""
+   },
+   {
+      "Command":"type",
+      "Target":"id=multiselect-dropdown",
+      "Value":"Multiselect"
+   },
+   {
+      "Command":"click",
+      "Target":"id=multiselect-dropdown",
+      "Value":""
+   },
+   {
+      "Command":"click",
+      "Target":"link=Next",
+      "Value":""
+   },
+   {
+      "Command":"type",
+      "Target":"id=field-label",
+      "Value":"Property Strategy"
+   },
+   {
+      "Command":"click",
+      "Target":"id=field-name",
+      "Value":""
+   },
+   {
+      "Command":"click",
+      "Target":"id=field-values",
+      "Value":""
+   },
+   {
+      "Command":"type",
+      "Target":"id=field-values",
+      "Value":"BTL - Buy to Let\\nBTS - Buy to Sell\\nCommercial To Residential Conversions\\nDelayed completions\\nFLIP\\nHMO - House of Multiple Occupancy\\nLease Options\\nR2R - Rent to Rent\\nRent2Own\\nServiced Accomodation\\nCommercial"
+   },
+   {
+      "Command":"type",
+      "Target":"id=SortAlphabetical",
+      "Value":"true"
+   },
+   {
+      "Command":"click",
+      "Target":"id=SortAlphabetical",
+      "Value":""
+   },
+   {
+      "Command":"clickAndWait",
+      "Target":"id=submit_btn",
+      "Value":""
+   },
+
+
+   {
+    "Command": "open",
+    "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Opportunity",
+    "Value": ""
+  },
+  {
+    "Command": "click",
+    "Target": "link=New Field",
+    "Value": ""
+  },
+  {
+    "Command": "type",
+    "Target": "id=lookup",
+    "Value": "LookupRelationship"
+  },
+  {
+    "Command": "click",
+    "Target": "id=lookup",
+    "Value": ""
+  },
+  {
+    "Command": "click",
+    "Target": "link=Next",
+    "Value": ""
+  },
+  {
+    "Command": "type",
+    "Target": "id=field-label",
+    "Value": "Investor Contact"
+  },
+  {
+    "Command": "click",
+    "Target": "id=field-name",
+    "Value": ""
+  },
+  {
+    "Command": "click",
+    "Target": "id=relatedListName",
+    "Value": ""
+  },
+  {
+    "Command": "type",
+    "Target": "id=relatedListName",
+    "Value": "Investment Opportunities"
+  },
+  {
+    "Command": "click",
+    "Target": "//*[@id=\"LookupRelationshipAddEditForm\"]/div/ul/li[6]/div",
+    "Value": ""
+  },
+  {
+    "Command": "clickAndWait",
+    "Target": "id=submit_btn",
+    "Value": ""
+  },
+
+
+  {
+    "Command": "open",
+    "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Opportunity",
+    "Value": ""
+  },
+  {
+    "Command": "click",
+    "Target": "link=New Field",
+    "Value": ""
+  },
+  {
+    "Command": "type",
+    "Target": "id=lookup",
+    "Value": "LookupRelationship"
+  },
+  {
+    "Command": "click",
+    "Target": "id=lookup",
+    "Value": ""
+  },
+  {
+    "Command": "click",
+    "Target": "link=Next",
+    "Value": ""
+  },
+  {
+    "Command": "type",
+    "Target": "id=field-label",
+    "Value": "Seller Contact"
+  },
+  {
+    "Command": "click",
+    "Target": "id=field-name",
+    "Value": ""
+  },
+  {
+    "Command": "click",
+    "Target": "id=relatedListName",
+    "Value": ""
+  },
+  {
+    "Command": "type",
+    "Target": "id=relatedListName",
+    "Value": "Sales Opportunities"
+  },
+  {
+    "Command": "click",
+    "Target": "//*[@id=\"LookupRelationshipAddEditForm\"]/div/ul/li[6]/div",
+    "Value": ""
+  },
+  {
+    "Command": "clickAndWait",
+    "Target": "id=submit_btn",
+    "Value": ""
+  },
+
+
+
+
+  {
+    "Command": "open",
+    "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Opportunity",
+    "Value": ""
+  },
+  {
+    "Command": "click",
+    "Target": "link=New Field",
+    "Value": ""
+  },
+  {
+    "Command": "type",
+    "Target": "id=lookup",
+    "Value": "LookupRelationship"
+  },
+  {
+    "Command": "click",
+    "Target": "id=lookup",
+    "Value": ""
+  },
+  {
+    "Command": "click",
+    "Target": "link=Next",
+    "Value": ""
+  },
+  {
+    "Command": "click",
+    "Target": "id=join-object",
+    "Value": ""
+  },
+  {
+    "Command": "select",
+    "Target": "id=join-object",
+    "Value": "label=Organization"
+  },
+  {
+    "Command": "type",
+    "Target": "id=field-label",
+    "Value": "Seller Organisation"
+  },
+  {
+    "Command": "click",
+    "Target": "id=field-name",
+    "Value": ""
+  },
+  {
+    "Command": "click",
+    "Target": "id=relatedListName",
+    "Value": ""
+  },
+  {
+    "Command": "type",
+    "Target": "id=relatedListName",
+    "Value": "Deal Sourcing Opportunities"
+  },
+  {
+    "Command": "click",
+    "Target": "//*[@id=\"LookupRelationshipAddEditForm\"]/div/ul/li[6]/div",
+    "Value": ""
+  },
+  {
+    "Command": "clickAndWait",
+    "Target": "id=submit_btn",
+    "Value": ""
+  }
+
   ]
 }
