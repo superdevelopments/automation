@@ -512,5 +512,491 @@
          "Value":""
       }
       
+      
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Favourite Food"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+      
+
+            
+      
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Investment Area"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+            
+      
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Approx Purchase Price"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+            
+      
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Capital Available"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+            
+      
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Desired ROI (%)"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+
+            
+      
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Desired Yield (%)"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+      ,
+      {
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=multi-text",
+         "Value":"MultilineText"
+      },
+      {
+         "Command":"click",
+         "Target":"id=multi-text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Current Portfolio Description"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      },
+
+
+      {
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=dropdown",
+         "Value":"Dropdown"
+      },
+      {
+         "Command":"click",
+         "Target":"id=dropdown",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Investor Status"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-values",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-values",
+         "Value":"HNW - High Net Worth\\nSophisticated\\nSophisticated & Experienced\\nSSAS trustee"
+      },
+      {
+         "Command":"type",
+         "Target":"id=SortAlphabetical",
+         "Value":"true"
+      },
+      {
+         "Command":"click",
+         "Target":"id=SortAlphabetical",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      },
+
+
+      {
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=dropdown",
+         "Value":"Dropdown"
+      },
+      {
+         "Command":"click",
+         "Target":"id=dropdown",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Property Experience"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-values",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-values",
+         "Value":"Newbie\\nProperty Educated\\nMasterminder\\nMentor / Experienced Property Investor"
+      },
+      {
+         "Command":"type",
+         "Target":"id=SortAlphabetical",
+         "Value":"true"
+      },
+      {
+         "Command":"click",
+         "Target":"id=SortAlphabetical",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      },
+
+
+      {
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=multiselect-dropdown",
+         "Value":"Multiselect"
+      },
+      {
+         "Command":"click",
+         "Target":"id=multiselect-dropdown",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Profile Types"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-values",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-values",
+         "Value":"BTL\\nBuy to Sell\\nCommercial To Residential Conversions\\nDelayed Completions\\nFLIP\\nHMO\\nLease Options\\nR2R\\nRent2Own\\nSA"
+      },
+      {
+         "Command":"type",
+         "Target":"id=SortAlphabetical",
+         "Value":"true"
+      },
+      {
+         "Command":"click",
+         "Target":"id=SortAlphabetical",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
    ]
 }
