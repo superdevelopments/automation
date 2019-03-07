@@ -13,12 +13,12 @@
       },
       {
          "Command":"type",
-         "Target":"id=date",
-         "Value":"Date"
+         "Target":"id=text",
+         "Value":"Text"
       },
       {
          "Command":"click",
-         "Target":"id=date",
+         "Target":"id=text",
          "Value":""
       },
       {
@@ -29,7 +29,7 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"Contract Renewal Date"
+         "Value":"Services"
       },
       {
          "Command":"click",
@@ -84,7 +84,7 @@
       {
          "Command":"type",
          "Target":"id=field-values",
-         "Value":"Email\\nGoogle\\nNetworking\\nOther\\nPhone Enquiry\\nFacebook\\nGumtree\\nRightmove\\nZoopla\\nPurchased List\\nReferral\\nSocial Media\\nWebsite\\nAgent\\nSourcer\\nData Scraping\\nLinkedIn\\nTwitter\\nInstagram\\nYouTube"
+         "Value":"Email\\nGoogle\\nNetworking\\nOther\\nPhone Enquiry\\nFacebook\\nGumtree\\nRightmove\\nZoopla\\nPurchased List\\nPartner Referral\\nSocial Media\\nWeb\\nAgent\\nSourcer\\nData Scraping\\nLinkedIn\\nTwitter\\nInstagram\\nYouTube"
       },
       {
          "Command":"type",

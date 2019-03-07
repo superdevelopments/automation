@@ -124,7 +124,7 @@
       {
          "Command":"type",
          "Target":"id=field-values",
-         "Value":"Charity Event\\nGolf Day\\nHoliday\\nMAD Millionaire\\nMastermind\\nNetworking\\nNottingham Property Network\\nOnline\\nOther\\nPersonal Network\\nPIN Nottingham\\nPIN Regents Park\\nPP CC Masterclass\\nPP Course\\nPP JV Class\\nPP Masterclass\\nPP Mastermind\\nPP MSOPI\\nPP SA Masterclass\\nPPN Birmingham\\nPPN Brooklands\\nPPN Canary Wharf\\nPPN Event\\nPPN Knightsbridge\\nPPN Nottingham\\nPPN St Pancras\\nProgressive Property\\nSFO Elite Mastermind\\nSFO Mastemind\\nWFW"
+         "Value":"COPY & PASTE LIST HERE"
       },
       {
          "Command":"type",
@@ -343,12 +343,12 @@
       },
       {
          "Command":"type",
-         "Target":"id=dropdown",
-         "Value":"Dropdown"
+         "Target":"id=multiselect-dropdown",
+         "Value":"Multiselect"
       },
       {
          "Command":"click",
-         "Target":"id=dropdown",
+         "Target":"id=multiselect-dropdown",
          "Value":""
       },
       {
@@ -359,7 +359,7 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"Profile Type"
+         "Value":"Profile Types"
       },
       {
          "Command":"click",
@@ -374,7 +374,7 @@
       {
          "Command":"type",
          "Target":"id=field-values",
-         "Value":"Accountant\\nArchitect\\nAuctioneer\\nCommercial Agent\\nCommercial Surveyor\\nConservation Specialist\\nConsultant\\nContractor\\nDamp Proof Specialist\\nDemolition Specialist \\nDeveloper\\nDrains Specialist\\nEducation Provider\\nEntrepeneur\\nFinance Broker\\nFreehold Specialist\\nHeritage Specialist\\nHMO Operater\\nInternal Team\\nInvestor\\nJV Partner\\nLand Agent\\nLetting Agent\\nLandlord\\nMain Contractor\\nMaintenance Agent\\nManagement Agent\\nMentor\\nMortgage Broker\\nNew Build Sales Agent\\nOther\\nPersonal Contact\\nPlanning Consultant\\nProject Manager\\nProperty Broker\\nProperty Investor\\nQuantity Surveyor\\nRepossession Specialist\\nResidential Agent\\nSA Guest\\nSA Operator\\nSite Forman/Woman\\nSolicitor\\nSourcer\\nStructural Engineer\\nTree Specialist\\nUtilities Provider\\nValuation Specialist\\nConnector\\nGraphic Designer\\nDigital Marketing Specialist\\nCopy Writer\\nSocial Media Specialist\\nContent Specialist\\nCyber Security Specialist\\nEvents Specialist\\nTravel Specialist\\nMobile Phone Provider\\nTenant\\nVendor\\nProperty Newbie\\nBusiness Development Specialist\\nVideo Production Specialist\\nBusiness Coach\\nFinance Specialist\\nOnline Security Specialist"
+         "Value":"Accountant\\nActuary\\nAngel Investor\\nArchitect\\nAthlete\\nAuctioneer\\nBanker\\nBuilder\\nBuilding Control Officer\\nBusiness Coach\\nBusiness Development Specialist\\nBusiness Mentor\\nBusiness Owner\\nCapital Partner\\nCarpet Fitter\\nCoach\\nCommercial Estate Agent\\nCommercial Surveyor\\nConnector\\nConservation Specialist\\nConsultant\\nContent Specialist\\nContractor\\nCopy Writer\\nCurtain Supplier\\nCyber Security Specialist\\nDamp Proof Specialist\\nDeal Packager\\nDeal Sourcer\\nDebt Management Specialist\\nDecorator\\nDemolition Specialist \\nDigital Marketing Specialist\\nDoctor\\nDrain Specialist\\nEducation Provider\\nElectrician\\nEntrepreneur\\nEnvironment & Health Officer\\nEstate Agent\\nEvents Specialist\\nFinance Broker\\nFinance Broker - Bridging Finance\\nFinance Specialist\\nFloor Planner\\nFreehold Specialist\\nFund Manager\\nFuneral Director\\nFurniture Supplier\\nGardener / Landscaper\\nGlazier / Window Fitter\\nGraphic Designer\\nHairdresser\\nHeritage Specialist\\nHMO Letting Agent\\nHMO Officer\\nHMO Operator\\nInsurance Broker\\nInterior Designer\\nInvestor\\nIT Specialist\\nJoiner\\nJV Partner\\nLand Agent\\nLandlord\\nLeaflet Distributor\\nLease Option Solicitor\\nLender\\nLetting Agent\\nMain Contractor\\nMaintenance Agent\\nManagement Agent\\nMentor\\nMobile Phone Provider\\nMortgage Broker\\nNew Build Sales Agent\\nOther\\nPainter / Decorator\\nPersonal Contact\\nPhotographer\\nPlanning Consultant\\nPlanning Officer\\nPlasterer\\nPlumber / Gas Fitter\\nPolitician\\nPower Producer\\nPrinter\\nProject Manager\\nProperty Coach\\nProperty Developer\\nProperty Investor\\nProperty Mentor\\nProperty Newbie\\nProperty System Specialist\\nProperty Trainer\\nQuantity Surveyor\\nRecruitment Specialist\\nRepossession Specialist\\nResidential Estate Agent\\nRestaurant Owner\\nRoofer\\nSA Guest\\nSA Operator\\nShop Owner\\nSIPP Provider\\nSite Foreman\\nSocial Media Specialist\\nSolicitor\\nSound Proof Specialist\\nSpeaker\\nSPV Partner\\nSSAS Provider\\nSSAS Trustee\\nStructural Engineer\\nTaxi Driver\\nTenant\\nTenant Buyer\\nTiler\\nTravel Specialist\\nTree Specialist\\nUtilities Provider\\nValuation Specialist\\nVendor\\nVideo Production Specialist\\nWaste Specialist\\nEstate Agent\\nBridge Finance Broker\\nLender\\nWaste specialist\\nPower Producer\\nPlanning Officer\\nBuilding Control Officer\\nSound Proof Specialist\\nPrinter\\nLeaflet Distributor"
       },
       {
          "Command":"type",
@@ -504,6 +504,493 @@
       {
          "Command":"click",
          "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+      
+      
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Favourite Food"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+      
+
+            
+      
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Investment Area"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+            
+      
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Approx Purchase Price"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+            
+      
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Capital Available"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+            
+      
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Desired ROI (%)"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+
+            
+      
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Desired Yield (%)"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+      ,
+      {
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=multi-text",
+         "Value":"MultilineText"
+      },
+      {
+         "Command":"click",
+         "Target":"id=multi-text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Current Portfolio Description"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      },
+
+
+      {
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=dropdown",
+         "Value":"Dropdown"
+      },
+      {
+         "Command":"click",
+         "Target":"id=dropdown",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Investor Status"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-values",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-values",
+         "Value":"HNW - High Net Worth\\nSophisticated\\nSophisticated & Experienced\\nSSAS trustee"
+      },
+      {
+         "Command":"type",
+         "Target":"id=SortAlphabetical",
+         "Value":"true"
+      },
+      {
+         "Command":"click",
+         "Target":"id=SortAlphabetical",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      },
+
+
+      {
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=dropdown",
+         "Value":"Dropdown"
+      },
+      {
+         "Command":"click",
+         "Target":"id=dropdown",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Property Experience"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-values",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-values",
+         "Value":"Newbie\\nProperty Educated\\nMasterminder\\nMentor / Experienced Property Investor"
+      },
+      {
+         "Command":"type",
+         "Target":"id=SortAlphabetical",
+         "Value":"true"
+      },
+      {
+         "Command":"click",
+         "Target":"id=SortAlphabetical",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      },
+
+
+      {
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=multiselect-dropdown",
+         "Value":"Multiselect"
+      },
+      {
+         "Command":"click",
+         "Target":"id=multiselect-dropdown",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Preferred Strategies"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-values",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-values",
+         "Value":"BTL\\nBuy to Sell\\nCommercial To Residential Conversions\\nDelayed Completions\\nFLIP\\nHMO\\nLease Options\\nR2R\\nRent2Own\\nSA"
+      },
+      {
+         "Command":"type",
+         "Target":"id=SortAlphabetical",
+         "Value":"true"
+      },
+      {
+         "Command":"click",
+         "Target":"id=SortAlphabetical",
          "Value":""
       },
       {
