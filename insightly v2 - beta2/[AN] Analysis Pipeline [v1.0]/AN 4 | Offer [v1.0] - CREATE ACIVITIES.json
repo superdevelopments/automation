@@ -1,0 +1,175 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "Offer | Call Agent"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[10]/a/span",
+      "Value": "To Do"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "Offer | Acquire Partners Sign Off"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[15]/a/span",
+      "Value": "To Do"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "Offer | Complete Offer Template"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[15]/a/span",
+      "Value": "To Do"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "Offer | Submit Offer"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[9]/a/span",
+      "Value": "Offer"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    }
+  ]
+}

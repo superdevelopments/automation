@@ -1,0 +1,46 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/settings/CompanySettings",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/a/i",
+      "Value": ""
+    },
+
+    
+    {
+      "Command": "click",
+      "Target": "id=DefaultCurrency",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=DefaultCurrency",
+      "Value": "label=GBP £"
+    },
+   
+
+    {
+      "Command": "click",
+      "Target": "id=DefaultTimezone",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=DefaultTimezone",
+      "Value": "label=(UTC+00:00) Dublin, Edinburgh, Lisbon, London"
+    },
+    
+
+    {
+      "Command": "clickAndWait",
+      "Target": "id=company-settings-submit",
+      "Value": ""
+    }
+  ]
+}

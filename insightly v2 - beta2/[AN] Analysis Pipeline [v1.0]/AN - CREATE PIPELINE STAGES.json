@@ -1,0 +1,142 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    {
+      "Command": "click",
+      "Target": "id=NewStageName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStageName",
+      "Value": "Initial Analysis"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewActivitySetID",
+      "Value": "label=AN 1 | Initial Analysis [v1.0](3)"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Stage",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewStageName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStageName",
+      "Value": "Viewing"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewActivitySetID",
+      "Value": "label=AN 2 | Viewing [v1.0](3)"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Stage",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewStageName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStageName",
+      "Value": "Basic Analysis "
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewActivitySetID",
+      "Value": "label=AN 3 | Basic Analysis [v1.0](3)"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Stage",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewStageName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStageName",
+      "Value": "Offer"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewActivitySetID",
+      "Value": "label=AN 4 | Offer [v1.0](4)"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Stage",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewStageName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStageName",
+      "Value": "Deal"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewActivitySetID",
+      "Value": "label=AN 5 | Deal [v1.0](1)"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Stage",
+      "Value": ""
+    }
+  ]
+}
