@@ -213,11 +213,6 @@
     },
     {
       "Command": "click",
-      "Target": "id=FieldMappings_41__ToFields_1__ToID",
-      "Value": ""
-    },
-    {
-      "Command": "click",
       "Target": "id=FieldMappings_42__ToFields_1__ToID",
       "Value": ""
     },
