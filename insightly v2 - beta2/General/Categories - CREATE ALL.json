@@ -318,64 +318,6 @@
 
 
 
-
-
-    {
-      "Command": "click",
-      "Target": "id=txtAddName",
-      "Value": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=txtAddName",
-      "Value": "Consulting"
-    },
-    {
-      "Command": "click",
-      "Target": "id=chkAddOpportunity",
-      "Value": "1"
-    },
-    {
-      "Command": "click",
-      "Target": "id=chkAddProjects",
-      "Value": "1"
-    },
-    {
-      "Command": "click",
-      "Target": "link=Add Category",
-      "Value": ""
-    },
-  
-    
-
-    {
-      "Command": "click",
-      "Target": "id=txtAddName",
-      "Value": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=txtAddName",
-      "Value": "Find Deals"
-    },
-    {
-      "Command": "click",
-      "Target": "id=chkAddOpportunity",
-      "Value": "1"
-    },
-    {
-      "Command": "click",
-      "Target": "id=chkAddProjects",
-      "Value": "1"
-    },
-    {
-      "Command": "click",
-      "Target": "link=Add Category",
-      "Value": ""
-    },
-
-
-
     {
       "Command": "click",
       "Target": "id=txtAddName",
