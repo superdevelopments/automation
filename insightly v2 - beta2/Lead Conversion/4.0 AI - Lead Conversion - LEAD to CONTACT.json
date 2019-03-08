@@ -3,11 +3,9 @@
   "Commands": [
     {
       "Command": "open",
-      "Target": "https://crm.na1.insightly.com/Settings/LeadConversionFieldMapping",
+      "Target": "https://crm.na1.insightly.com/settings/leadconversionfieldmapping",
       "Value": ""
     },
-
-
     {
       "Command": "click",
       "Target": "id=FieldMappings_0__ToFields_1__ToID",
@@ -18,8 +16,6 @@
       "Target": "id=FieldMappings_0__ToFields_1__ToID",
       "Value": "label=Alcoholic Drinks Preference"
     },
-
-
     {
       "Command": "click",
       "Target": "id=FieldMappings_1__ToFields_1__ToID",
@@ -28,11 +24,28 @@
     {
       "Command": "select",
       "Target": "id=FieldMappings_1__ToFields_1__ToID",
+      "Value": "label=Approx Purchase Price"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_2__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_2__ToFields_1__ToID",
+      "Value": "label=Capital Available"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_3__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_3__ToFields_1__ToID",
       "Value": "label=Children Names"
     },
-    
-
-
     {
       "Command": "click",
       "Target": "id=FieldMappings_6__ToFields_1__ToID",
@@ -41,100 +54,178 @@
     {
       "Command": "select",
       "Target": "id=FieldMappings_6__ToFields_1__ToID",
+      "Value": "label=Current Portfolio Description"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_8__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_8__ToFields_1__ToID",
+      "Value": "label=Desired ROI (%)"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_9__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_9__ToFields_1__ToID",
+      "Value": "label=Desired Yield (%)"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_11__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_11__ToFields_1__ToID",
       "Value": "label=Event"
     },
-
-
-
     {
       "Command": "click",
-      "Target": "id=FieldMappings_9__ToFields_1__ToID",
+      "Target": "id=FieldMappings_12__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_9__ToFields_1__ToID",
+      "Target": "id=FieldMappings_12__ToFields_1__ToID",
+      "Value": "label=Favourite Food"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_15__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_15__ToFields_1__ToID",
       "Value": "label=Hobbies/Interests"
     },
-
-
-
     {
       "Command": "click",
-      "Target": "id=FieldMappings_10__ToFields_1__ToID",
+      "Target": "id=FieldMappings_16__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_10__ToFields_1__ToID",
+      "Target": "id=FieldMappings_16__ToFields_1__ToID",
       "Value": "label=Hot Drinks Preference"
     },
-
-
     {
       "Command": "click",
-      "Target": "id=FieldMappings_12__ToFields_1__ToID",
+      "Target": "id=FieldMappings_18__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_12__ToFields_1__ToID",
+      "Target": "id=FieldMappings_18__ToFields_1__ToID",
       "Value": "label=Initial Email Statement"
     },
-
-
-
     {
       "Command": "click",
-      "Target": "id=FieldMappings_16__ToFields_1__ToID",
+      "Target": "id=FieldMappings_19__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_16__ToFields_1__ToID",
+      "Target": "id=FieldMappings_19__ToFields_1__ToID",
+      "Value": "label=Investment Area"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_20__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_20__ToFields_1__ToID",
+      "Value": "label=Investor Status"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_23__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_24__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_24__ToFields_1__ToID",
       "Value": "label=Lead Source [custom]"
     },
-
-
-
     {
       "Command": "click",
-      "Target": "id=FieldMappings_24__ToFields_1__ToID",
+      "Target": "id=FieldMappings_31__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_24__ToFields_1__ToID",
-      "Value": "label=Profile Type"
+      "Target": "id=FieldMappings_31__ToFields_1__ToID",
+      "Value": "label=Preferred Strategies"
     },
-
-
-
     {
       "Command": "click",
-      "Target": "id=FieldMappings_26__ToFields_1__ToID",
+      "Target": "id=FieldMappings_33__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_26__ToFields_1__ToID",
+      "Target": "id=FieldMappings_33__ToFields_1__ToID",
+      "Value": "label=Profile Types"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_34__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_34__ToFields_1__ToID",
+      "Value": "label=Property Experience"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_36__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_36__ToFields_1__ToID",
       "Value": "label=Skype ID"
     },
-
-
-
     {
       "Command": "click",
-      "Target": "id=FieldMappings_32__ToFields_1__ToID",
+      "Target": "id=FieldMappings_37__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_32__ToFields_1__ToID",
+      "Target": "id=FieldMappings_37__ToFields_1__ToID",
+      "Value": "label=Spouse Name"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_41__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_42__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_42__ToFields_1__ToID",
       "Value": "label=When did we meet?"
     },
-
-
     {
       "Command": "click",
       "Target": "id=saveChanges",
