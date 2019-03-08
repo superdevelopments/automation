@@ -68,9 +68,6 @@
     },
 
 
-
-
-
     {
       "Command": "click",
       "Target": "id=txtAddName",
@@ -118,6 +115,33 @@
     },
 
 
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Find Deals"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddOpportunity",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddProjects",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
 
 
 
@@ -229,7 +253,7 @@
     {
       "Command": "type",
       "Target": "id=txtAddName",
-      "Value": "Videocall"
+      "Value": "Video Call"
     },
     {
       "Command": "click",
@@ -432,6 +456,337 @@
       "Command": "click",
       "Target": "link=Add Category",
       "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Analysis"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Viewing"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "WhatsApp Messenger"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "LinkedIn Messenger"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "WeChat Messenger"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Revise Offer"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Onsite Visit"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Due Diligence"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Investor Pack"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddTasks",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Coaching"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddOpportunity",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddProjects",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Find Tenant Buyer"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddOpportunity",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddProjects",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Referral"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddOpportunity",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddProjects",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
+    },
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=txtAddName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=txtAddName",
+      "Value": "Sell Deals"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddOpportunity",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "id=chkAddProjects",
+      "Value": "1"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Category",
+      "Value": ""
     }
+
   ]
 }
