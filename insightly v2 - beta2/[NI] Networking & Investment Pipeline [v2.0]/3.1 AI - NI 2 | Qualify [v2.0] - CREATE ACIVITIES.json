@@ -20,7 +20,7 @@
     {
       "Command": "type",
       "Target": "id=ActivityName",
-      "Value": "Qualify | Pre Meeting Checklist"
+      "Value": "Pre Meeting Checklist"
     },
     {
       "Command": "click",
@@ -73,7 +73,7 @@
     {
       "Command": "type",
       "Target": "id=ActivityName",
-      "Value": "Qualify | Meeting Qualification Checklist"
+      "Value": "Meeting Qualification Checklist"
     },
     {
       "Command": "click",
@@ -126,7 +126,7 @@
     {
       "Command": "type",
       "Target": "id=ActivityName",
-      "Value": "Qualify | Post Meeting Email​"
+      "Value": "Post Meeting Email​"
     },
     {
       "Command": "click",

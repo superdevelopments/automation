@@ -20,7 +20,7 @@
     {
       "Command": "type",
       "Target": "id=ActivityName",
-      "Value": "Nurture | Pre Meeting Checklist"
+      "Value": "Pre Meeting Checklist"
     },
     {
       "Command": "click",
@@ -73,7 +73,7 @@
     {
       "Command": "type",
       "Target": "id=ActivityName",
-      "Value": "Nurture | Meeting Qualification Checklist"
+      "Value": "Meeting Qualification Checklist"
     },
     {
       "Command": "click",

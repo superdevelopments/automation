@@ -554,7 +554,31 @@
       "Command": "click",
       "Target": "link=Add Lead Source",
       "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Referral"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
     }
-    
   ]
 }
