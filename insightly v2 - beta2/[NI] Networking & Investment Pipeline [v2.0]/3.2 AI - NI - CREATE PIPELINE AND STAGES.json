@@ -2,6 +2,44 @@
   "CreationDate": "2018-11-17",
   "Commands": [
     {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/settings/pipelines",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewPipelineName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewPipelineName",
+      "Value": "[NI] Network & Investment [v2.0]"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"list-main\"]/div/fieldset/section[1]/div/div/div[2]/article",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewForOpportunities",
+      "Value": "true"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewForOpportunities",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Pipeline",
+      "Value": ""
+    },
+
+
+
+    {
       "Command": "click",
       "Target": "id=NewStageName",
       "Value": ""
