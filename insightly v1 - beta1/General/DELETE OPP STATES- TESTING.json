@@ -1,0 +1,16 @@
+{
+  "Name": "DELETE OPP STATES",
+  "CreationDate": "2019-3-8",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/settings/oppreasons",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//a[contains(concat(' ', normalize-space(@class), ' '), ' settingssmalldelete ')]",
+      "Value": ""
+    }
+  ]
+}
