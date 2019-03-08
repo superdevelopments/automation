@@ -23,6 +23,33 @@ Email
 PHONE
 //*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[10]/a/span
 
++ 1 below:
+0
+1 Analysis
+2 Contract
+3 Due Diligence
+4 Email
+5 Facebook Messenger
+6 Follow Up
+7 Get Started
+8 Investor Pack
+9 Invoice
+10 LinkedIn Messenger
+11 Meeting
+12 Offer
+13 Onsite Visit
+14 Phone Call
+15 Presentation
+16 Proposal
+17 Qualification
+18 Research
+19 Revise Offer
+20 To Do
+21 Video Call
+22 Viewing
+23 WeChat Messenger
+24 WhatsApp Messenger
+
 
 
 ----------------------------
