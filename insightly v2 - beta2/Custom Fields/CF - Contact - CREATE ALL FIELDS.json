@@ -1,6 +1,49 @@
 {
    "CreationDate":"2018-11-15",
    "Commands":[
+
+      {
+         "Command": "open",
+         "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "link=Event",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "link=Clone This Field",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "id=TargetEntity",
+         "Value": ""
+       },
+       {
+         "Command": "select",
+         "Target": "id=TargetEntity",
+         "Value": "label=Contact"
+       },
+       {
+         "Command": "clickAndWait",
+         "Target": "id=cloneCustomFieldButton",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "id=submit_btn",
+         "Value": ""
+       },
+
+
       {
          "Command":"open",
          "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
@@ -74,66 +117,6 @@
       {
          "Command":"click",
          "Target":"id=field-name",
-         "Value":""
-      },
-      {
-         "Command":"clickAndWait",
-         "Target":"id=submit_btn",
-         "Value":""
-      },
-      {
-         "Command":"open",
-         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=New Field",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=dropdown",
-         "Value":"Dropdown"
-      },
-      {
-         "Command":"click",
-         "Target":"id=dropdown",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=Next",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=field-label",
-         "Value":"Event"
-      },
-      {
-         "Command":"click",
-         "Target":"id=field-name",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"id=field-values",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=field-values",
-         "Value":"COPY & PASTE LIST HERE"
-      },
-      {
-         "Command":"type",
-         "Target":"id=SortAlphabetical",
-         "Value":"true"
-      },
-      {
-         "Command":"click",
-         "Target":"id=SortAlphabetical",
          "Value":""
       },
       {
