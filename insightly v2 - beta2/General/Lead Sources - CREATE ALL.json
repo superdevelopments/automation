@@ -379,6 +379,181 @@
       "Command": "click",
       "Target": "link=Add Lead Source",
       "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "On The Market"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Ebay"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Online Agent"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Newspaper"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Leaflets"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Auction"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Word of Mouth"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
     }
     
   ]
