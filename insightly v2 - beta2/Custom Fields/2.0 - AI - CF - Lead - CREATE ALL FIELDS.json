@@ -387,6 +387,16 @@
          "Value":""
       },
       {
+         "Command": "click",
+         "Target": "id=visible-lines",
+         "Value": ""
+      },
+      {
+         "Command": "type",
+         "Target": "id=visible-lines",
+         "Value": "5"
+      },
+      {
          "Command":"clickAndWait",
          "Target":"id=submit_btn",
          "Value":""
