@@ -1,29 +1,4 @@
-RESER
-//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[15]/a/span
-
-RESER
-//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[14]/a/span
-
-QUAL
-//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[13]/a/span
-
-PROP
-//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[12]/a/span
-
-OFFER
-//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[9]/a/span
-
-
-PHONE
-//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[10]/a/span
-
-Email
-//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[3]/a/span
-
-PHONE
-//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[10]/a/span
-
-+ 1 below:
++ 1 to below:
 0
 1 Analysis
 2 Contract
