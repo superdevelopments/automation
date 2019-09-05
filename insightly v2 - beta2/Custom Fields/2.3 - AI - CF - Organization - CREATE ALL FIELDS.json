@@ -42,64 +42,44 @@
          "Value":""
       },
       {
-         "Command":"open",
-         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Organisation",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=New Field",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=dropdown",
-         "Value":"Dropdown"
-      },
-      {
-         "Command":"click",
-         "Target":"id=dropdown",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=Next",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=field-label",
-         "Value":"Lead Source [custom]"
-      },
-      {
-         "Command":"click",
-         "Target":"id=field-name",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"id=field-values",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=field-values",
-         "Value":"Email\\nGoogle\\nNetworking\\nOther\\nPhone Enquiry\\nFacebook\\nGumtree\\nRightmove\\nZoopla\\nPurchased List\\nPartner Referral\\nSocial Media\\nWeb\\nAgent\\nSourcer\\nData Scraping\\nLinkedIn\\nTwitter\\nInstagram\\nYouTube\\nOn The Market\\nEbay\\nOnline Agent\\nNewspaper\\nLeaflets\\nAuction\\nWord of Mouth"
-      },
-      {
-         "Command":"type",
-         "Target":"id=SortAlphabetical",
-         "Value":"true"
-      },
-      {
-         "Command":"click",
-         "Target":"id=SortAlphabetical",
-         "Value":""
-      },
-      {
-         "Command":"clickAndWait",
-         "Target":"id=submit_btn",
-         "Value":""
-      }
+         "Command": "open",
+         "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "link=Lead Source [custom]",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "link=Clone This Field",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "id=TargetEntity",
+         "Value": ""
+       },
+       {
+         "Command": "select",
+         "Target": "id=TargetEntity",
+         "Value": "label=Organization"
+       },
+       {
+         "Command": "clickAndWait",
+         "Target": "id=cloneCustomFieldButton",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "id=submit_btn",
+         "Value": ""
+       }
    ]
 }
