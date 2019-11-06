@@ -44,86 +44,48 @@
        },
 
 
-      {
-         "Command":"open",
-         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=New Field",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=text",
-         "Value":"Text"
-      },
-      {
-         "Command":"click",
-         "Target":"id=text",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=Next",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=field-label",
-         "Value":"Alcoholic Drinks Preference"
-      },
-      {
-         "Command":"click",
-         "Target":"id=field-name",
-         "Value":""
-      },
-      {
-         "Command":"clickAndWait",
-         "Target":"id=submit_btn",
-         "Value":""
-      },
-      {
-         "Command":"open",
-         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=New Field",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=text",
-         "Value":"Text"
-      },
-      {
-         "Command":"click",
-         "Target":"id=text",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=Next",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=field-label",
-         "Value":"Children Names"
-      },
-      {
-         "Command":"click",
-         "Target":"id=field-name",
-         "Value":""
-      },
-      {
-         "Command":"clickAndWait",
-         "Target":"id=submit_btn",
-         "Value":""
-      },
+       {
+         "Command": "open",
+         "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "link=Lead Source [custom]",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "link=Clone This Field",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "id=TargetEntity",
+         "Value": ""
+       },
+       {
+         "Command": "select",
+         "Target": "id=TargetEntity",
+         "Value": "label=Contact"
+       },
+       {
+         "Command": "clickAndWait",
+         "Target": "id=cloneCustomFieldButton",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "id=submit_btn",
+         "Value": ""
+       },
+
+     
       {
          "Command":"open",
          "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
@@ -192,7 +154,7 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"Hot Drinks Preference"
+         "Value":"Drinks Preference"
       },
       {
          "Command":"click",
@@ -254,66 +216,8 @@
          "Target":"id=submit_btn",
          "Value":""
       },
-      {
-         "Command":"open",
-         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=New Field",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=dropdown",
-         "Value":"Dropdown"
-      },
-      {
-         "Command":"click",
-         "Target":"id=dropdown",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=Next",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=field-label",
-         "Value":"Lead Source [custom]"
-      },
-      {
-         "Command":"click",
-         "Target":"id=field-name",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"id=field-values",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=field-values",
-         "Value":"Email\\nGoogle\\nNetworking\\nOther\\nPhone Enquiry\\nFacebook\\nGumtree\\nRightmove\\nZoopla\\nPurchased List\\nPartner Referral\\nSocial Media\\nWeb\\nAgent\\nSourcer\\nData Scraping\\nLinkedIn\\nTwitter\\nInstagram\\nYouTube\\nOn The Market\\nEbay\\nOnline Agent\\nNewspaper\\nLeaflets\\nAuction\\nWord of Mouth"
-      },
-      {
-         "Command":"type",
-         "Target":"id=SortAlphabetical",
-         "Value":"true"
-      },
-      {
-         "Command":"click",
-         "Target":"id=SortAlphabetical",
-         "Value":""
-      },
-      {
-         "Command":"clickAndWait",
-         "Target":"id=submit_btn",
-         "Value":""
-      },
+
+      
       {
          "Command":"open",
          "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
@@ -357,7 +261,7 @@
       {
          "Command":"type",
          "Target":"id=field-values",
-         "Value":"Accountant\\n Actuary\\n Angel Investor\\n Architect\\n Athlete\\n Auctioneer\\n Banker\\n Bridge Finance Broker\\n Builder\\n Building Control Officer\\n Building Control Officer\\n Business Coach\\n Business Development Specialist\\n Business Mentor\\n Business Owner\\n Capital Partner\\n Carpet Fitter\\n Coach\\n Commercial Estate Agent\\n Commercial Surveyor\\n Connector\\n Conservation Specialist\\n Consultant\\n Content Specialist\\n Contractor\\n Copy Writer\\n Curtain Supplier\\n Cyber Security Specialist\\n Damp Proof Specialist\\n Deal Packager\\n Deal Sourcer\\n Debt Management Specialist\\n Decorator\\n Demolition Specialist \\n Digital Marketing Specialist\\n Doctor\\n Drain Specialist\\n Education Provider\\n Electrician\\n Entrepreneur\\n Environment & Health Officer\\n Estate Agent\\n Estate Agent\\n Events Specialist\\n Finance Broker\\n Finance Broker - Bridging Finance\\n Finance Specialist\\n Floor Planner\\n Freehold Specialist\\n Fund Manager\\n Funeral Director\\n Furniture Supplier\\n Gardener / Landscaper\\n Glazier / Window Fitter\\n Graphic Designer\\n Hairdresser\\n Heritage Specialist\\n HMO Letting Agent\\n HMO Officer\\n HMO Operator\\n Insurance Broker\\n Interior Designer\\n Investor\\n IT Specialist\\n Joiner\\n JV Partner\\n Land Agent\\n Landlord\\n Leaflet Distributor\\n Leaflet Distributor\\n Lease Option Solicitor\\n Lender\\n Lender\\n Letting Agent\\n Main Contractor\\n Maintenance Agent\\n Management Agent\\n Mentor\\n Mobile Phone Provider\\n Mortgage Broker\\n New Build Sales Agent\\n Other\\n Painter / Decorator\\n Personal Contact\\n Photographer\\n Planning Consultant\\n Planning Officer\\n Planning Officer\\n Plasterer\\n Plumber / Gas Fitter\\n Politician\\n Power Producer\\n Power Producer\\n Printer\\n Printer\\n Project Manager\\n Property Coach\\n Property Developer\\n Property Investor\\n Property Mentor\\n Property Newbie\\n Property System Specialist\\n Property Trainer\\n Quantity Surveyor\\n Recruitment Specialist\\n Repossession Specialist\\n Residential Estate Agent\\n Restaurant Owner\\n Roofer\\n SA Guest\\n SA Operator\\n Shop Owner\\n SIPP Provider\\n Site Foreman\\n Social Media Specialist\\n Solicitor\\n Sound Proof Specialist\\n Sound Proof Specialist\\n Speaker\\n SPV Partner\\n SSAS Provider\\n SSAS Trustee\\n Structural Engineer\\n Taxi Driver\\n Tenant\\n Tenant Buyer\\n Tiler\\n Travel Specialist\\n Tree Specialist\\n Utilities Provider\\n Valuation Specialist\\n Vendor\\n Video Production Specialist\\n Waste Specialist"
+         "Value":"Accountant\\n Actuary\\n Angel Investor\\n Architect\\n Athlete\\n Auctioneer\\n Banker\\n Bridge Finance Broker\\n Builder\\n Building Control Officer\\n Building Control Officer\\n Business Coach\\n Business Development Specialist\\n Business Mentor\\n Business Owner\\n Capital Partner\\n Carpet Fitter\\n Coach\\n Commercial Estate Agent\\n Commercial Surveyor\\n Connector\\n Conservation Specialist\\n Consultant\\n Content Specialist\\n Contractor\\n Copy Writer\\n Curtain Supplier\\n Cyber Security Specialist\\n Damp Proof Specialist\\n Deal Packager\\n Deal Sourcer\\n Debt Management Specialist\\n Decorator\\n Demolition Specialist \\n Digital Marketing Specialist\\n Doctor\\n Drain Specialist\\n Education Provider\\n Electrician\\n Entrepreneur\\n Environment & Health Officer\\n Estate Agent\\n Estate Agent\\n Events Specialist\\n Finance Broker\\n Finance Broker - Bridging Finance\\n Finance Specialist\\n Floor Planner\\n Freehold Specialist\\n Fund Manager\\n Funeral Director\\n Furniture Supplier\\n Gardener / Landscaper\\n Glazier / Window Fitter\\n Graphic Designer\\n Hairdresser\\n Heritage Specialist\\n HMO Letting Agent\\n HMO Officer\\n HMO Operator\\n Insurance Broker\\n Interior Designer\\n Investor\\n IT Specialist\\n Joiner\\n JV Partner\\n Land Agent\\n Landlord\\n Leaflet Distributor\\n Leaflet Distributor\\n Lease Option Solicitor\\n Lender\\n Lender\\n Letting Agent\\n Main Contractor\\n Maintenance Agent\\n Management Agent\\n Mentor\\n Mobile Phone Provider\\n Mortgage Broker\\n New Build Sales Agent\\n Other\\n Painter / Decorator\\n Personal Contact\\n Photographer\\n Planning Consultant\\n Planning Officer\\n Planning Officer\\n Plasterer\\n Plumber / Gas Fitter\\n Politician\\n Power Producer\\n Power Producer\\n Printer\\n Printer\\n Project Manager\\n Property Coach\\n Property Developer\\n Property Investor\\n Property Mentor\\n Property Newbie\\n Property System Specialist\\n Property Trainer\\n Quantity Surveyor\\n Recruitment Specialist\\n Repossession Specialist\\n Residential Estate Agent\\n Restaurant Owner\\n Roofer\\n SA Guest\\n SA Operator\\n Shop Owner\\n SIPP Provider\\n Site Foreman\\n Social Media Specialist\\n Solicitor\\n Sound Proof Specialist\\n Sound Proof Specialist\\n Speaker\\n SPV Partner\\n SSAS Provider\\n SSAS Trustee\\n Structural Engineer\\n Taxi Driver\\n Tenant\\n Tenant Buyer\\n Tiler\\n Travel Specialist\\n Tree Specialist\\n Utilities Provider\\n Valuation Specialist\\n Vendor\\n Video Production Specialist\\n Waste Specialist\\nBuilding Surveyor"
       },
       {
          "Command":"type",
@@ -452,7 +356,7 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"Spouse Name"
+         "Value":"Family Details"
       },
       {
          "Command":"click",
@@ -492,7 +396,7 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"When did we meet?"
+         "Value":"Date we met"
       },
       {
          "Command":"click",
@@ -578,7 +482,7 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"Investment Area"
+         "Value":"Investment Areas"
       },
       {
          "Command":"click",
@@ -793,7 +697,7 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"Current Portfolio Description"
+         "Value":"Current Portfolio"
       },
       {
          "Command":"click",
@@ -974,7 +878,7 @@
       {
          "Command":"type",
          "Target":"id=field-values",
-         "Value":"BTL\\nBuy to Sell\\nCommercial To Residential Conversions\\nDelayed Completions\\nFLIP\\nHMO\\nLease Options\\nR2R\\nRent2Own\\nSA"
+         "Value":"BTL\\nBuy to Sell (Flips)\\nCommercial Conversion\\nDelayed Completions\\nFLIP\\nHMO - House of Mulitple Occpuancy\\nLease Options\\nRent to Rent\\nRent to Own\\nSA\\nBRR - Buy Refurbish Refinance\\nMHNO - Mini HMO (4 or less people)\\nMulti Let\\nDevelopment (multi unit)\\nRent to SA\\nAssisted Sales\\nNew Build (single unit)\\nRent to HMO"
       },
       {
          "Command":"type",
@@ -991,5 +895,115 @@
          "Target":"id=submit_btn",
          "Value":""
       }
+
+
+
+
+
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Desired Portfolio Size"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+
+
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Contact",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=multiselect-dropdown",
+         "Value":"Multiselect"
+      },
+      {
+         "Command":"click",
+         "Target":"id=multiselect-dropdown",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":"Funding Strategy"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-values",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-values",
+         "Value":"Mortgage\\nCash\\nBridging Loan\\nPrivate Lending\\nSASS Fund\\nCommercial Finance\\nCrowdfund\\nPension"
+      },
+      {
+         "Command":"type",
+         "Target":"id=SortAlphabetical",
+         "Value":"true"
+      },
+      {
+         "Command":"click",
+         "Target":"id=SortAlphabetical",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+
    ]
 }

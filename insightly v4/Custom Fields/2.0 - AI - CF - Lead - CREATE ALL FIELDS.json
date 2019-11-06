@@ -13,46 +13,6 @@
       },
       {
          "Command":"type",
-         "Target":"id=text",
-         "Value":"Text"
-      },
-      {
-         "Command":"click",
-         "Target":"id=text",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=Next",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=field-label",
-         "Value":"Children Names"
-      },
-      {
-         "Command":"click",
-         "Target":"id=field-name",
-         "Value":""
-      },
-      {
-         "Command":"clickAndWait",
-         "Target":"id=submit_btn",
-         "Value":""
-      },
-      {
-         "Command":"open",
-         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=New Field",
-         "Value":""
-      },
-      {
-         "Command":"type",
          "Target":"id=dropdown",
          "Value":"Dropdown"
       },
