@@ -229,6 +229,34 @@
       "Command": "click",
       "Target": "link=Add Reason",
       "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewOpportunityState",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewOpportunityState",
+      "Value": "label=Suspended"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewStateReason",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStateReason",
+      "Value": "Sale Agreed"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Reason",
+      "Value": ""
     }
   ]
 }
