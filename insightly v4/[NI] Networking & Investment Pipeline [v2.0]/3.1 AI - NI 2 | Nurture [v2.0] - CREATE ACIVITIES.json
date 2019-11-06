@@ -182,7 +182,7 @@
     {
       "Command": "type",
       "Target": "id=ActivityName",
-      "Value": "​Confirm Proposal has been received​"
+      "Value": "​Confirm Proposal Received​"
     },
     {
       "Command": "click",
