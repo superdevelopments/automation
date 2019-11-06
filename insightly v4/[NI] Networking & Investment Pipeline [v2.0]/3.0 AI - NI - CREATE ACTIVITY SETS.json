@@ -1,8 +1,12 @@
 {
   "CreationDate": "2018-11-17",
   "Commands": [
-
-
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/settings/activitysets",
+      "Value": ""
+    },
+    
     {
       "Command": "click",
       "Target": "id=NewActivitySetName",
