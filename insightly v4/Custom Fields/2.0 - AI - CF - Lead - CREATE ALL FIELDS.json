@@ -29,46 +29,6 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"Alcoholic Drinks Preference"
-      },
-      {
-         "Command":"click",
-         "Target":"id=field-name",
-         "Value":""
-      },
-      {
-         "Command":"clickAndWait",
-         "Target":"id=submit_btn",
-         "Value":""
-      },
-      {
-         "Command":"open",
-         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=New Field",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=text",
-         "Value":"Text"
-      },
-      {
-         "Command":"click",
-         "Target":"id=text",
-         "Value":""
-      },
-      {
-         "Command":"click",
-         "Target":"link=Next",
-         "Value":""
-      },
-      {
-         "Command":"type",
-         "Target":"id=field-label",
          "Value":"Children Names"
       },
       {
@@ -209,7 +169,7 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"Hot Drinks Preference"
+         "Value":"Drinks Preference"
       },
       {
          "Command":"click",
@@ -469,7 +429,7 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"Spouse Name"
+         "Value":"Family Details"
       },
       {
          "Command":"click",
@@ -509,7 +469,7 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"When did we meet?"
+         "Value":"Date we met"
       },
       {
          "Command":"click",
