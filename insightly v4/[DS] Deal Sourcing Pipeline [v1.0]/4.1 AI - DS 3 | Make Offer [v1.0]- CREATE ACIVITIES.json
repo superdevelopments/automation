@@ -64,7 +64,7 @@
     {
       "Command": "type",
       "Target": "id=ActivityName",
-      "Value": "Offer Accepted"
+      "Value": "Follow Up Offer"
     },
     {
       "Command": "click",
@@ -74,7 +74,7 @@
     {
       "Command": "click",
       "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[21]/a/span",
-      "Value": "To Do"
+      "Value": "Follow-up"
     },
     {
       "Command": "click",

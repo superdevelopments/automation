@@ -14,7 +14,7 @@
     {
       "Command": "type",
       "Target": "id=NewPipelineName",
-      "Value": "[DS] Deal Sourcing Pipeline [v1.0]"
+      "Value": "Deal Sourcing Pipeline"
     },
     {
       "Command": "click",
@@ -103,7 +103,7 @@
     {
       "Command": "type",
       "Target": "id=NewStageName",
-      "Value": "Make Offer"
+      "Value": "Offer"
     },
     {
       "Command": "click",
@@ -113,7 +113,7 @@
     {
       "Command": "select",
       "Target": "id=NewActivitySetID",
-      "Value": "label=DS 3 | Make Offer [v1.0](2)"
+      "Value": "label=DS 3 | Offer [v1.0](2)"
     },
     {
       "Command": "click",

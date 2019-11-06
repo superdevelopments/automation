@@ -59,7 +59,7 @@
     {
       "Command": "type",
       "Target": "id=NewActivitySetName",
-      "Value": "DS 3 | Make Offer [v1.0]"
+      "Value": "DS 3 | Offer [v1.0]"
     },
     {
       "Command": "click",
