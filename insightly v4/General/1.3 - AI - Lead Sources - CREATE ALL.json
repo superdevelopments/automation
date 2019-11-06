@@ -580,5 +580,75 @@
       "Target": "link=Add Lead Source",
       "Value": ""
     }
+
+
+
+
+    ,{
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "D2V Letter"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    }
+
+
+
+    ,{
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "D2V Postcard"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    }
+
+
+    ,{
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Bandit Board"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    }
+    
   ]
 }
