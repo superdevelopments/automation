@@ -1,9 +1,15 @@
 {
-  "CreationDate": "2018-11-17",
+  "Name": "Lead conversion",
+  "CreationDate": "2019-11-6",
   "Commands": [
     {
       "Command": "open",
-      "Target": "https://crm.na1.insightly.com/settings/leadconversionfieldmapping",
+      "Target": "https://crm.na1.insightly.com/Settings",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Lead Conversion",
       "Value": ""
     },
     {
@@ -14,47 +20,47 @@
     {
       "Command": "select",
       "Target": "id=FieldMappings_0__ToFields_1__ToID",
-      "Value": "label=Alcoholic Drinks Preference"
-    },
-    {
-      "Command": "click",
-      "Target": "id=FieldMappings_1__ToFields_1__ToID",
-      "Value": ""
-    },
-    {
-      "Command": "select",
-      "Target": "id=FieldMappings_1__ToFields_1__ToID",
       "Value": "label=Approx Purchase Price"
     },
     {
       "Command": "click",
-      "Target": "id=FieldMappings_2__ToFields_1__ToID",
+      "Target": "id=FieldMappings_1__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_2__ToFields_1__ToID",
+      "Target": "id=FieldMappings_1__ToFields_1__ToID",
       "Value": "label=Capital Available"
     },
     {
       "Command": "click",
-      "Target": "id=FieldMappings_3__ToFields_1__ToID",
+      "Target": "id=FieldMappings_4__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_3__ToFields_1__ToID",
-      "Value": "label=Children Names"
+      "Target": "id=FieldMappings_4__ToFields_1__ToID",
+      "Value": "label=Current Portfolio"
     },
     {
       "Command": "click",
-      "Target": "id=FieldMappings_6__ToFields_1__ToID",
+      "Target": "id=FieldMappings_5__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_6__ToFields_1__ToID",
-      "Value": "label=Current Portfolio Description"
+      "Target": "id=FieldMappings_5__ToFields_1__ToID",
+      "Value": "label=Date we met"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_7__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_7__ToFields_1__ToID",
+      "Value": "label=Desired Portfolio Size"
     },
     {
       "Command": "click",
@@ -94,7 +100,7 @@
     {
       "Command": "select",
       "Target": "id=FieldMappings_12__ToFields_1__ToID",
-      "Value": "label=Favourite Food"
+      "Value": "label=Family Details"
     },
     {
       "Command": "click",
@@ -104,122 +110,107 @@
     {
       "Command": "select",
       "Target": "id=FieldMappings_15__ToFields_1__ToID",
+      "Value": "label=Food & Drinks Preference"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_16__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_16__ToFields_1__ToID",
+      "Value": "label=Funding Strategy"
+    },
+    {
+      "Command": "click",
+      "Target": "id=FieldMappings_17__ToFields_1__ToID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=FieldMappings_17__ToFields_1__ToID",
       "Value": "label=Hobbies/Interests"
     },
     {
       "Command": "click",
-      "Target": "id=FieldMappings_16__ToFields_1__ToID",
+      "Target": "id=FieldMappings_19__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_16__ToFields_1__ToID",
-      "Value": "label=Hot Drinks Preference"
-    },
-    {
-      "Command": "click",
-      "Target": "id=FieldMappings_18__ToFields_1__ToID",
-      "Value": ""
-    },
-    {
-      "Command": "select",
-      "Target": "id=FieldMappings_18__ToFields_1__ToID",
+      "Target": "id=FieldMappings_19__ToFields_1__ToID",
       "Value": "label=Initial Email Statement"
     },
     {
       "Command": "click",
-      "Target": "id=FieldMappings_19__ToFields_1__ToID",
+      "Target": "id=FieldMappings_20__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_19__ToFields_1__ToID",
-      "Value": "label=Investment Area"
+      "Target": "id=FieldMappings_20__ToFields_1__ToID",
+      "Value": "label=Investment Areas"
     },
     {
       "Command": "click",
-      "Target": "id=FieldMappings_20__ToFields_1__ToID",
+      "Target": "id=FieldMappings_21__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_20__ToFields_1__ToID",
+      "Target": "id=FieldMappings_21__ToFields_1__ToID",
       "Value": "label=Investor Status"
     },
     {
       "Command": "click",
-      "Target": "id=FieldMappings_23__ToFields_1__ToID",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=FieldMappings_24__ToFields_1__ToID",
+      "Target": "id=FieldMappings_25__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_24__ToFields_1__ToID",
+      "Target": "id=FieldMappings_25__ToFields_1__ToID",
       "Value": "label=Lead Source [custom]"
     },
     {
       "Command": "click",
-      "Target": "id=FieldMappings_31__ToFields_1__ToID",
+      "Target": "id=FieldMappings_32__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_31__ToFields_1__ToID",
+      "Target": "id=FieldMappings_32__ToFields_1__ToID",
       "Value": "label=Preferred Strategies"
     },
     {
       "Command": "click",
-      "Target": "id=FieldMappings_33__ToFields_1__ToID",
+      "Target": "id=FieldMappings_34__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_33__ToFields_1__ToID",
+      "Target": "id=FieldMappings_34__ToFields_1__ToID",
       "Value": "label=Profile Types"
     },
     {
       "Command": "click",
-      "Target": "id=FieldMappings_34__ToFields_1__ToID",
+      "Target": "id=FieldMappings_35__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_34__ToFields_1__ToID",
+      "Target": "id=FieldMappings_35__ToFields_1__ToID",
       "Value": "label=Property Experience"
     },
     {
       "Command": "click",
-      "Target": "id=FieldMappings_36__ToFields_1__ToID",
+      "Target": "id=FieldMappings_37__ToFields_1__ToID",
       "Value": ""
     },
     {
       "Command": "select",
-      "Target": "id=FieldMappings_36__ToFields_1__ToID",
+      "Target": "id=FieldMappings_37__ToFields_1__ToID",
       "Value": "label=Skype ID"
-    },
-    {
-      "Command": "click",
-      "Target": "id=FieldMappings_37__ToFields_1__ToID",
-      "Value": ""
-    },
-    {
-      "Command": "select",
-      "Target": "id=FieldMappings_37__ToFields_1__ToID",
-      "Value": "label=Spouse Name"
-    },
-    {
-      "Command": "click",
-      "Target": "id=FieldMappings_42__ToFields_1__ToID",
-      "Value": ""
-    },
-    {
-      "Command": "select",
-      "Target": "id=FieldMappings_42__ToFields_1__ToID",
-      "Value": "label=When did we meet?"
     },
     {
       "Command": "click",
