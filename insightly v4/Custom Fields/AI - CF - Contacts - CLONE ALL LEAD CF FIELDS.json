@@ -9,7 +9,7 @@
     },
     {
       "Command": "click",
-      "Target": "link=Alcoholic Drinks Preference",
+      "Target": "link=Food & Drinks Preference",
       "Value": ""
     },
     {
@@ -126,50 +126,6 @@
       "Target": "id=submit_btn",
       "Value": ""
     },
-
-
-
-    {
-      "Command": "open",
-      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "link=Children Names",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "link=Clone This Field",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=TargetEntity",
-      "Value": ""
-    },
-    {
-      "Command": "select",
-      "Target": "id=TargetEntity",
-      "Value": "label=Contact"
-    },
-    {
-      "Command": "clickAndWait",
-      "Target": "id=cloneCustomFieldButton",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=submit_btn",
-      "Value": ""
-    },
-
 
 
 
@@ -355,53 +311,6 @@
 
 
 
-
-    {
-      "Command": "open",
-      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "link=Favourite Food",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "link=Clone This Field",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=TargetEntity",
-      "Value": ""
-    },
-    {
-      "Command": "select",
-      "Target": "id=TargetEntity",
-      "Value": "label=Contact"
-    },
-    {
-      "Command": "clickAndWait",
-      "Target": "id=cloneCustomFieldButton",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=submit_btn",
-      "Value": ""
-    },
-
-
-
-
-
-
     {
       "Command": "open",
       "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
@@ -442,56 +351,6 @@
       "Target": "id=submit_btn",
       "Value": ""
     },
-
-
-
-
-
-
-
-    {
-      "Command": "open",
-      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "link=Hot Drinks Preference",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "link=Clone This Field",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=TargetEntity",
-      "Value": ""
-    },
-    {
-      "Command": "select",
-      "Target": "id=TargetEntity",
-      "Value": "label=Contact"
-    },
-    {
-      "Command": "clickAndWait",
-      "Target": "id=cloneCustomFieldButton",
-      "Value": ""
-    },
-    {
-      "Command": "click",
-      "Target": "id=submit_btn",
-      "Value": ""
-    },
-
-
-
 
 
 
@@ -550,7 +409,7 @@
     },
     {
       "Command": "click",
-      "Target": "link=Investment Area",
+      "Target": "link=Investment Areas",
       "Value": ""
     },
     {
@@ -877,7 +736,7 @@
     },
     {
       "Command": "click",
-      "Target": "link=Spouse Name",
+      "Target": "link=Family Details",
       "Value": ""
     },
     {
@@ -925,7 +784,92 @@
     },
     {
       "Command": "click",
-      "Target": "link=When did we meet?",
+      "Target": "link=Date we met",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Desired Portfolio Size",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Funding Strategy",
       "Value": ""
     },
     {
