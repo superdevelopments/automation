@@ -1,0 +1,234 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/settings/oppreasons",
+      "Value": ""
+    },
+
+
+    
+    {
+      "Command": "click",
+      "Target": "id=NewOpportunityState",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewOpportunityState",
+      "Value": "label=Lost"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewStateReason",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStateReason",
+      "Value": "Competitor"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Reason",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewOpportunityState",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewOpportunityState",
+      "Value": "label=Lost"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewStateReason",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStateReason",
+      "Value": "Limited Time"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Reason",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewOpportunityState",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewOpportunityState",
+      "Value": "label=Lost"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewStateReason",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStateReason",
+      "Value": "Offer Rejected"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Reason",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewOpportunityState",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewOpportunityState",
+      "Value": "label=Won"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewStateReason",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStateReason",
+      "Value": "Deal Secured"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Reason",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewOpportunityState",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewOpportunityState",
+      "Value": "label=Abandoned"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewStateReason",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStateReason",
+      "Value": "Insufficient Profit/Potential"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Reason",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewOpportunityState",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewOpportunityState",
+      "Value": "label=Abandoned"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewStateReason",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStateReason",
+      "Value": "Failed Analysis"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Reason",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewOpportunityState",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewOpportunityState",
+      "Value": "label=Suspended"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewStateReason",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStateReason",
+      "Value": "Budget Issues"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Reason",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewOpportunityState",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewOpportunityState",
+      "Value": "label=Suspended"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewStateReason",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStateReason",
+      "Value": "Timing Issues"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Reason",
+      "Value": ""
+    }
+  ]
+}

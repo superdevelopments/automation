@@ -1,0 +1,163 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "Pre Meeting Checklist"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div/p",
+      "Value": ""
+    },
+    {
+      "Command": "editContent",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div",
+      "Value": "<p>Pre-Meeting Research</p><p>Social Media: Facebook, Linkedin, Website</p><p>Size of the business:</p><p>Focus:</p><p>Summary:</p>"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[19]/a/span",
+      "Value": "Research"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "Meeting Qualification Checklist"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div/p",
+      "Value": ""
+    },
+    {
+      "Command": "editContent",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div",
+      "Value": "<p>Replay FORM & what might I have missed?</p><p>Where are you now?</p><p>Where do you want to get to?</p><p>What is stopping you getting there?</p><p>Would you like us to help you ?</p><p>Qualify MANT</p><p>MONEY has this been allocated a budget?</p><p>AUTHORITY Who else is required to get this signed - off?</p><p>What is the NEED or urgency to do this?</p><p>TIME What is your timeline?</p<p>Schedule Qualify - Meeting (if required)</p>"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[18]/a/span",
+      "Value": "Qualification"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "Post Meeting Email​"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div/p",
+      "Value": ""
+    },
+    {
+      "Command": "editContent",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div",
+      "Value": "<p>Use the Discover Email Template and add discussion points</p>"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[5]/a/span",
+      "Value": "Email"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    }
+
+  ]
+}

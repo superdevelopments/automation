@@ -1,0 +1,76 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/settings/activitysets",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewActivitySetName",
+      "Value": "DS 1 | Analysis [v1.0]"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewForOpportunities",
+      "Value": "true"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewActivitySetName",
+      "Value": "DS 2 | Due Diligence [v1.0]"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewForOpportunities",
+      "Value": "true"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add",
+      "Value": ""
+    },
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewActivitySetName",
+      "Value": "DS 3 | Make Offer [v1.0]"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewForOpportunities",
+      "Value": "true"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add",
+      "Value": ""
+    }
+
+  ]
+}

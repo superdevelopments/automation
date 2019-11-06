@@ -1,0 +1,126 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/settings/pipelines",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewPipelineName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewPipelineName",
+      "Value": "[DS] Deal Sourcing Pipeline [v1.0]"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"list-main\"]/div/fieldset/section[1]/div/div/div[2]/article",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewForOpportunities",
+      "Value": "true"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewForOpportunities",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Pipeline",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewStageName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStageName",
+      "Value": "Analysis"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewActivitySetID",
+      "Value": "label=DS 1 | Analysis [v1.0](2)"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Stage",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewStageName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStageName",
+      "Value": "Due Diligence"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewActivitySetID",
+      "Value": "label=DS 2 | Due Diligence [v1.0](3)"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Stage",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewStageName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStageName",
+      "Value": "Make Offer"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewActivitySetID",
+      "Value": "label=DS 3 | Make Offer [v1.0](2)"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Stage",
+      "Value": ""
+    }
+
+
+  ]
+}

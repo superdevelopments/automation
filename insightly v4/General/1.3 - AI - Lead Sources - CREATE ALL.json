@@ -1,0 +1,584 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/settings/leadsources",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Email"
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Google"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Networking"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Facebook"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Gumtree"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Rightmove"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Zoopla"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Zoopla"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Social Media"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Agent"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Sourcer"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Data Scraping"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "LinkedIn"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Twitter"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Instagram"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "YouTube"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "On The Market"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Ebay"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Online Agent"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Newspaper"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Leaflets"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Auction"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Word of Mouth"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewLeadSource",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Referral"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    }
+  ]
+}

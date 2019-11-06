@@ -1,0 +1,219 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "Pre Meeting Checklist"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div/p",
+      "Value": ""
+    },
+    {
+      "Command": "editContent",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div",
+      "Value": "Go through all previous meeting notes"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[19]/a/span",
+      "Value": "Research"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "Meeting Qualification Checklist"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div/p",
+      "Value": ""
+    },
+    {
+      "Command": "editContent",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div",
+      "Value": "Any question, issues or anything they are unsure about?"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[18]/a/span",
+      "Value": "Qualification"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "Send Contract"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div/p",
+      "Value": ""
+    },
+    {
+      "Command": "editContent",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div",
+      "Value": "Use the Contract template"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[3]/a/span",
+      "Value": "Contract"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    },
+
+
+
+
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "​​Confirm Contract has been received​"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div/p",
+      "Value": ""
+    },
+    {
+      "Command": "editContent",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[15]/a/span",
+      "Value": "Phone"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    }
+
+  ]
+}

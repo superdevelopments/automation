@@ -1,0 +1,84 @@
++ 1 to below:
+0
+1 Analysis
+2 Contract
+3 Due Diligence
+4 Email
+5 Facebook Messenger
+6 Follow Up
+7 Get Started
+8 Investor Pack
+9 Invoice
+10 LinkedIn Messenger
+11 Meeting
+12 Offer
+13 Onsite Visit
+14 Phone Call
+15 Presentation
+16 Proposal
+17 Qualification
+18 Research
+19 Revise Offer
+20 To Do
+21 Video Call
+22 Viewing
+23 WeChat Messenger
+24 WhatsApp Messenger
+
+
+
+----------------------------
+Create acvities
+----------------------------
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "TASK NAME"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div/p",
+      "Value": ""
+    },
+    {
+      "Command": "editContent",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div",
+      "Value": "<p>​TASK DESC</p>"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[14]/a/span",
+      "Value": "Research"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    },
+
+

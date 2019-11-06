@@ -1,0 +1,85 @@
+{
+   "CreationDate":"2018-11-15",
+   "Commands":[
+      {
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Organisation",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Services"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      },
+      {
+         "Command": "open",
+         "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "link=Lead Source [custom]",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "link=Clone This Field",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "id=TargetEntity",
+         "Value": ""
+       },
+       {
+         "Command": "select",
+         "Target": "id=TargetEntity",
+         "Value": "label=Organization"
+       },
+       {
+         "Command": "clickAndWait",
+         "Target": "id=cloneCustomFieldButton",
+         "Value": ""
+       },
+       {
+         "Command": "click",
+         "Target": "id=submit_btn",
+         "Value": ""
+       }
+   ]
+}

@@ -1,0 +1,964 @@
+{
+  "Name": "CF - Contacts - CLONE ALL LEAD CF FIELDS",
+  "CreationDate": "2019-3-7",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Alcoholic Drinks Preference",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+    
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Approx Purchase Price",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Capital Available",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Children Names",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Current Portfolio Description",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Desired ROI (%)",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Desired Yield (%)",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Event",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Favourite Food",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Hobbies/Interests",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Hot Drinks Preference",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Initial Email Statement",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Investment Area",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Investor Status",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Lead Source [custom]",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Preferred Strategies",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Profile Types",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Property Experience",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Skype ID",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Spouse Name",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    },
+
+
+
+
+
+
+
+
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=When did we meet?",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"body-frame\"]/header/div[1]/div/button",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Clone This Field",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=TargetEntity",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=TargetEntity",
+      "Value": "label=Contact"
+    },
+    {
+      "Command": "clickAndWait",
+      "Target": "id=cloneCustomFieldButton",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=submit_btn",
+      "Value": ""
+    }
+
+
+  ]
+}
