@@ -951,7 +951,7 @@
       {
          "Command":"type",
          "Target":"id=field-values",
-         "Value":"BTL\\nBuy to Sell\\nCommercial To Residential Conversions\\nDelayed Completions\\nFLIP\\nHMO\\nLease Options\\nR2R\\nRent2Own\\nSA"
+         "Value":"BTL\\nBuy to Sell (Flips)\\nCommercial Conversion\\nDelayed Completions\\nFLIP\\nHMO - House of Mulitple Occpuancy\\nLease Options\\nRent to Rent\\nRent to Own\\nSA\\nBRR - Buy Refurbish Refinance\\nMHNO - Mini HMO (4 or less people)\\nMulti Let\\nDevelopment (multi unit)\\nRent to SA\\nAssisted Sales\\nNew Build (single unit)\\nRent to HMO"
       },
       {
          "Command":"type",
