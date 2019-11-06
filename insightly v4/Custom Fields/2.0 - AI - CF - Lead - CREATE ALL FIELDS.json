@@ -1004,12 +1004,12 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":""
+         "Value":"Funding Strategy"
       },
       {
          "Command":"click",
          "Target":"id=field-name",
-         "Value":"Funding Strategy"
+         "Value":""
       },
       {
          "Command":"click",
