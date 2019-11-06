@@ -276,7 +276,7 @@
     "Command": "clickAndWait",
     "Target": "id=submit_btn",
     "Value": ""
-  },
+  }
 
 
 
