@@ -555,7 +555,7 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"Investment Area"
+         "Value":"Investment Areas"
       },
       {
          "Command":"click",
@@ -770,7 +770,7 @@
       {
          "Command":"type",
          "Target":"id=field-label",
-         "Value":"Current Portfolio Description"
+         "Value":"Current Portfolio"
       },
       {
          "Command":"click",
@@ -952,6 +952,114 @@
          "Command":"type",
          "Target":"id=field-values",
          "Value":"BTL\\nBuy to Sell\\nCommercial To Residential Conversions\\nDelayed Completions\\nFLIP\\nHMO\\nLease Options\\nR2R\\nRent2Own\\nSA"
+      },
+      {
+         "Command":"type",
+         "Target":"id=SortAlphabetical",
+         "Value":"true"
+      },
+      {
+         "Command":"click",
+         "Target":"id=SortAlphabetical",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+
+
+
+
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=text",
+         "Value":"Text"
+      },
+      {
+         "Command":"click",
+         "Target":"id=text",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":"Desired Portfolio Size"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":""
+      },
+      {
+         "Command":"clickAndWait",
+         "Target":"id=submit_btn",
+         "Value":""
+      }
+
+
+
+      ,{
+         "Command":"open",
+         "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Lead",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=New Field",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=multiselect-dropdown",
+         "Value":"Multiselect"
+      },
+      {
+         "Command":"click",
+         "Target":"id=multiselect-dropdown",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"link=Next",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-label",
+         "Value":""
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-name",
+         "Value":"Funding Strategy"
+      },
+      {
+         "Command":"click",
+         "Target":"id=field-values",
+         "Value":""
+      },
+      {
+         "Command":"type",
+         "Target":"id=field-values",
+         "Value":"Mortgage\\nCash\\nBridging Loan\\nPrivate Lending\\nSASS Fund\\nCommercial Finance\\nCrowdfund\\nPension"
       },
       {
          "Command":"type",
