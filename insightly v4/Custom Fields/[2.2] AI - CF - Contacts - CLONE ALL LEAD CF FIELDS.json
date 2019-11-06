@@ -138,7 +138,7 @@
     },
     {
       "Command": "click",
-      "Target": "link=Current Portfolio Description",
+      "Target": "link=Current Portfolio",
       "Value": ""
     },
     {
