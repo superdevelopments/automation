@@ -14,7 +14,7 @@
     {
       "Command": "type",
       "Target": "id=NewPipelineName",
-      "Value": "Deal Sourcing Pipeline"
+      "Value": "Deal Sourcing"
     },
     {
       "Command": "click",
