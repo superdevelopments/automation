@@ -14,7 +14,7 @@
     {
       "Command": "type",
       "Target": "id=NewPipelineName",
-      "Value": "Network & Investment"
+      "Value": "Referral"
     },
     {
       "Command": "click",
@@ -47,6 +47,34 @@
     {
       "Command": "type",
       "Target": "id=NewStageName",
+      "Value": "Refer"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewActivitySetID",
+      "Value": "label=RE 1 | Refer [v1.0](1)"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Stage",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewStageName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStageName",
       "Value": "Qualify"
     },
     {
@@ -57,7 +85,7 @@
     {
       "Command": "select",
       "Target": "id=NewActivitySetID",
-      "Value": "label=NI 1 | Qualify [v2.0](3)"
+      "Value": "label=RE 2 | Qualify [v1.0](1)"
     },
     {
       "Command": "click",
@@ -75,7 +103,7 @@
     {
       "Command": "type",
       "Target": "id=NewStageName",
-      "Value": "Nurture"
+      "Value": "Invoice"
     },
     {
       "Command": "click",
@@ -85,35 +113,7 @@
     {
       "Command": "select",
       "Target": "id=NewActivitySetID",
-      "Value": "label=NI 2 | Nurture [v2.0](4)"
-    },
-    {
-      "Command": "click",
-      "Target": "link=Add Stage",
-      "Value": ""
-    },
-
-
-
-    {
-      "Command": "click",
-      "Target": "id=NewStageName",
-      "Value": ""
-    },
-    {
-      "Command": "type",
-      "Target": "id=NewStageName",
-      "Value": "Convert"
-    },
-    {
-      "Command": "click",
-      "Target": "id=NewActivitySetID",
-      "Value": ""
-    },
-    {
-      "Command": "select",
-      "Target": "id=NewActivitySetID",
-      "Value": "label=NI 3 | Convert [v2.0](4)"
+      "Value": "label=RE 3 | Invoice [v1.0](3)"
     },
     {
       "Command": "click",
