@@ -1,0 +1,58 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/button/span[1]",
+      "Value": "Activity Type"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"ChooseType\"]/div/div/div/ul/li[2]/a/span",
+      "Value": "Task"
+    },
+    {
+      "Command": "click",
+      "Target": "id=ActivityName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=ActivityName",
+      "Value": "Confirm Referral Succesful"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div/p",
+      "Value": ""
+    },
+    {
+      "Command": "editContent",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[2]/div/div/div",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/button/span[2]",
+      "Value": "Category"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"TaskActivity\"]/article/div/ul/li[3]/div/div/div/ul/li[7]/a/span",
+      "Value": "Follow Up"
+    },
+    {
+      "Command": "click",
+      "Target": "id=PubliclyVisible",
+      "Value": "on"
+    },
+    {
+      "Command": "click",
+      "Target": "id=AddTaskActivity",
+      "Value": ""
+    }
+
+
+  ]
+}

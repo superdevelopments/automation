@@ -1,0 +1,76 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/settings/activitysets",
+      "Value": ""
+    },
+    
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewActivitySetName",
+      "Value": "RE 1 | Refer [v1.0]"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewForOpportunities",
+      "Value": "true"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add",
+      "Value": ""
+    },
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewActivitySetName",
+      "Value": "RE 2 | Qualify [v1.0]"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewForOpportunities",
+      "Value": "true"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add",
+      "Value": ""
+    },
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewActivitySetName",
+      "Value": "RE 3 | Invoice [v1.0]"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewForOpportunities",
+      "Value": "true"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add",
+      "Value": ""
+    }
+
+  ]
+}

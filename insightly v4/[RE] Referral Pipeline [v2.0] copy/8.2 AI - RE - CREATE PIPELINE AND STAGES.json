@@ -1,0 +1,124 @@
+{
+  "CreationDate": "2018-11-17",
+  "Commands": [
+    {
+      "Command": "open",
+      "Target": "https://crm.na1.insightly.com/settings/pipelines",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewPipelineName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewPipelineName",
+      "Value": "Network & Investment"
+    },
+    {
+      "Command": "click",
+      "Target": "//*[@id=\"list-main\"]/div/fieldset/section[1]/div/div/div[2]/article",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewForOpportunities",
+      "Value": "true"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewForOpportunities",
+      "Value": ""
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Pipeline",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewStageName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStageName",
+      "Value": "Qualify"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewActivitySetID",
+      "Value": "label=NI 1 | Qualify [v2.0](3)"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Stage",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewStageName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStageName",
+      "Value": "Nurture"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewActivitySetID",
+      "Value": "label=NI 2 | Nurture [v2.0](4)"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Stage",
+      "Value": ""
+    },
+
+
+
+    {
+      "Command": "click",
+      "Target": "id=NewStageName",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewStageName",
+      "Value": "Convert"
+    },
+    {
+      "Command": "click",
+      "Target": "id=NewActivitySetID",
+      "Value": ""
+    },
+    {
+      "Command": "select",
+      "Target": "id=NewActivitySetID",
+      "Value": "label=NI 3 | Convert [v2.0](4)"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Stage",
+      "Value": ""
+    }
+  ]
+}
