@@ -193,7 +193,7 @@
   {
     "Command": "type",
     "Target": "id=field-label",
-    "Value": "Investor Contact"
+    "Value": "Investor"
   },
   {
     "Command": "click",
@@ -250,7 +250,7 @@
   {
     "Command": "type",
     "Target": "id=field-label",
-    "Value": "Seller Contact"
+    "Value": "Vendor"
   },
   {
     "Command": "click",
@@ -276,8 +276,114 @@
     "Command": "clickAndWait",
     "Target": "id=submit_btn",
     "Value": ""
-  }
+  },
 
+
+
+  {
+    "Command":"open",
+    "Target":"https://crm.na1.insightly.com/Settings/ObjectFields/Opportunity",
+    "Value":""
+ },
+ {
+    "Command":"click",
+    "Target":"link=New Field",
+    "Value":""
+ },
+ {
+    "Command":"type",
+    "Target":"id=text",
+    "Value":"Text"
+ },
+ {
+    "Command":"click",
+    "Target":"id=text",
+    "Value":""
+ },
+ {
+    "Command":"click",
+    "Target":"link=Next",
+    "Value":""
+ },
+ {
+    "Command":"type",
+    "Target":"id=field-label",
+    "Value":"Location"
+ },
+ {
+    "Command":"click",
+    "Target":"id=field-name",
+    "Value":""
+ },
+ {
+    "Command":"clickAndWait",
+    "Target":"id=submit_btn",
+    "Value":""
+ },
+
+
+
+
+ {
+  "Command": "open",
+  "Target": "https://crm.na1.insightly.com/Settings/ObjectFields/Opportunity",
+  "Value": ""
+},
+{
+  "Command": "click",
+  "Target": "link=New Field",
+  "Value": ""
+},
+{
+  "Command": "type",
+  "Target": "id=lookup",
+  "Value": "LookupRelationship"
+},
+{
+  "Command": "click",
+  "Target": "id=lookup",
+  "Value": ""
+},
+{
+  "Command": "click",
+  "Target": "link=Next",
+  "Value": ""
+},
+{
+  "Command": "type",
+  "Target": "id=field-label",
+  "Value": "Agent"
+},
+{
+  "Command": "click",
+  "Target": "id=field-name",
+  "Value": ""
+},
+{
+  "Command": "click",
+  "Target": "id=relatedListName",
+  "Value": ""
+},
+{
+  "Command": "type",
+  "Target": "id=relatedListName",
+  "Value": "Agent Opportunities"
+},
+{
+  "Command": "click",
+  "Target": "id=join-object",
+  "Value": ""
+},
+{
+  "Command": "select",
+  "Target": "id=join-object",
+  "Value": "label=Organization"
+},
+{
+  "Command": "clickAndWait",
+  "Target": "id=submit_btn",
+  "Value": ""
+}
 
 
 
