@@ -648,6 +648,36 @@
       "Command": "click",
       "Target": "link=Add Lead Source",
       "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Direct to Vendor Letter"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Direct to Vendor Postcard"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
+    },
+    {
+      "Command": "type",
+      "Target": "id=NewLeadSource",
+      "Value": "Partner Referral"
+    },
+    {
+      "Command": "click",
+      "Target": "link=Add Lead Source",
+      "Value": ""
     }
     
   ]
