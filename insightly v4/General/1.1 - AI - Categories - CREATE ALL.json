@@ -500,11 +500,6 @@
       "Value": ""
     },
     {
-      "Command": "type",
-      "Target": "id=txtAddName",
-      "Value": "WeChat Messenger"
-    },
-    {
       "Command": "click",
       "Target": "id=chkAddTasks",
       "Value": "1"
